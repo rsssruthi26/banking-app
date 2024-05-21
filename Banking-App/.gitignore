@@ -19,5 +19,4 @@ target/
 *.iml
 *.ipr
 
-.DS_Stores
 .DS_Store
